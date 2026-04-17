@@ -6,7 +6,7 @@ Learn how to properly use GitHub.
 Steps:
 1) Create a new repository
 2) Create a dev branch
-3) Add Issues to resolve
+3) Add Issues to resolve later
 4) Generate a PDF
 5) Create a QMD file
 
