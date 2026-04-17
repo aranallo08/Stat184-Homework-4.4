@@ -1,0 +1,13 @@
+Project Plan
+
+Goal:
+Learn how to properly use GitHub.
+
+Steps:
+1) Create a new repository
+2) Create a dev branch
+3) Generate a PDF
+4) Create a QMD file
+
+Needs:
+GitHub web app, GitHub desktop app, RStudio, Quarto
