@@ -1,0 +1,25 @@
+---
+title: "QuartoForGitHub"
+author: "Adam Ranallo"
+date: today
+format:
+  pdf:
+    toc: false
+    toc-depth: 3
+    number-sections: true
+    code-fold: false
+    embed-resources: true
+---
+
+## GitHub Quarto Document
+
+```{r}
+1 + 1
+```
+
+# Secret number! 
+
+```{r}
+#| echo: false
+184*184
+```
